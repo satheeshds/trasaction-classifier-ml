@@ -1,0 +1,18 @@
+# .gitignore
+
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints
+models/
+*.h5
+*.pkl
+*.log
+
+venv/
+.cursor/
+data/
+results/
+notebooks/
+logs/
