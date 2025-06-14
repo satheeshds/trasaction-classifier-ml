@@ -16,3 +16,6 @@ datasets>=2.18.0
 
 # Testing requirements
 pytest>=7.0.0
+
+# Web interface requirements
+streamlit>=1.32.0
